@@ -1,0 +1,7 @@
+# python
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+
+# macos
+.DS_Store
